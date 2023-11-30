@@ -12,6 +12,7 @@ Je suis Ményssa Cherifa-Luron, PhD en Data Science et Formatrice basée à Toul
 - [R - Introduction](https://github.com/universdesdonnees/R-Introduction)
 - [Python - Introduction](https://github.com/universdesdonnees/Python-Introduction)
 - Python - Programmation Orientée Object
+- Python - Machine Learning | Apprentissage supervisé
 - [Git - Introduction](https://github.com/universdesdonnees/Git-Introduction)
 
 ## Me Contacter 
