@@ -3,6 +3,7 @@
 Je suis Ményssa Cherifa-Luron, PhD en Data Science et Formatrice basée à Toulouse, France.
 
 ## Projets 
+- **Web app for covid-19 prediction** : [GitHub](https://github.com/universdesdonnees/PredictCovid) | [research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571674/)
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
 - **SQL en deux jours** : [GitHub](https://github.com/universdesdonnees/SQL-en-deux-jours) | [Livre](https://amzn.to/3T3pmPC)
 - **Python Tutor** : [Chat OpenAI](https://chat.openai.com/g/g-fJSQx9XYA-python-tutor)
