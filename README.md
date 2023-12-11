@@ -10,7 +10,7 @@ Je suis Ményssa Cherifa-Luron, PhD en Data Science et Formatrice basée à Toul
 
 ## Cours 
 À l'IA School, j'ai créé et enseigné les cours suivants:
-- [R - Introduction](https://github.com/universdesdonnees/R-Introduction)
+- [R - Introduction](https://universdesdonnees.github.io/R-Introduction/)
 - [R - Shiny](https://github.com/universdesdonnees/R-Shiny)
 - [Python - Introduction](https://github.com/universdesdonnees/Python-Introduction)
 - Python - Programmation Orientée Object
