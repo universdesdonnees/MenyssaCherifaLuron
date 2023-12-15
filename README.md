@@ -1,4 +1,4 @@
-# Hello!
+# Hello! 👋
 
 Je suis Ményssa Cherifa-Luron, PhD en Data Science et Formatrice basée à Toulouse, France.
 
