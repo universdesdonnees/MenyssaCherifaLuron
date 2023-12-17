@@ -18,4 +18,4 @@ Je suis Ményssa Cherifa-Luron, PhD en Data Science et Formatrice basée à Toul
 - [Git - Introduction](https://github.com/universdesdonnees/Git-Introduction)
 
 ## Me Contacter 
-Vous pouvez me contacter à l'adresse : mcherifaluron@universdesdonnees.fr
+Vous pouvez me contacter à l'adresse : cmenyssa@live.fr
