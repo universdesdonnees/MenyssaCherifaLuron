@@ -38,7 +38,7 @@ Quand je ne suis pas plongée dans la data, je me perds dans un bon livre ou j'�
 
 ## Cours 📋🆕⚒️
 À l'IA School, j'ai créé et enseigné les cours suivants:
-- [R - Introduction](https://github.com/universdesdonnees/R-Introduction)
+- [R - Introduction](https://universdesdonnees.github.io/R-Introduction/cours/Cours.html)
 - [R - Shiny](https://github.com/universdesdonnees/R-Shiny)
 - [Python - Introduction](https://github.com/universdesdonnees/Python-Introduction)
 - [Git - Introduction](https://github.com/universdesdonnees/Git-Introduction)
