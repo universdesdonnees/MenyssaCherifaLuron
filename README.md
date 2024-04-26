@@ -14,7 +14,6 @@ N'hésitez pas à me contacter pour échanger autour de la data :
 
 - 📩 **Email :** [cmenyssa@live.fr](mailto:cmenyssa@live.fr)
 - 👩‍💻 **GitHub :** [@universdesdonnees](https://github.com/universdesdonnees)
-- 💻 **Site Web :** [mcherifaluron.com](https://mcherifaluron.com)
 
 Je crois fermement que les données sont puissantes et que les histoires ont un impact. Ensemble, faisons bouger les lignes !
 
