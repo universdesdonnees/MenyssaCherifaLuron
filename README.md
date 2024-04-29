@@ -43,4 +43,5 @@ Pour me contacter pour échanger autour de la data :
 
 - 📩 **Email :** [cmenyssa@live.fr](mailto:cmenyssa@live.fr)
 - 👩‍💻 **GitHub :** [@universdesdonnees](https://github.com/universdesdonnees)
+- 💼 **LinkedIn :** [@Ményssa Cherifa-Luron](https://www.linkedin.com/in/menyssacherifaluron/)
 
