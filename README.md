@@ -63,7 +63,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
       </td>
       <td>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365721001111?via%3Dihub">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fehealth4everyone.com%2Fartificial-intelligence-in-medical-diagnosis%2F&psig=AOvVaw3E2H-2wHmRb6hTBI3F65L-&ust=1714559110284000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCA8snc6YUDFQAAAAAdAAAAABAJ" style="width: 100%; float: left;" />
+        <img src="https://ehealth4everyone.com/wp-content/uploads/2023/01/Blog-Header-1200x600-px-3-1140x450.png" style="width: 100%; float: left;" />
       </td>
       </tr>
   </tbody>
