@@ -11,8 +11,6 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Créatrice et autrice de la newsletter ['Smart'](https://www.linkedin.com/newsletters/7100158974640967680/), offrant des récits qui éclairent et inspirent.
   
 ## Projets 🏆
-- **Web app for covid-19 prediction** : [GitHub](https://github.com/universdesdonnees/PredictCovid) | [research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571674/)
-- **Predictive Modeling for Agriculture** : [GitHub](https://github.com/universdesdonnees/PredictAgriculture)
 - Multitask Learning for Hypotension Prediction
 - **Python Tutor** : [Chat OpenAI](https://chat.openai.com/g/g-fJSQx9XYA-python-tutor)
 - **RSS to audio** :
@@ -33,7 +31,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
     <tr width="600px">
       <td>
         <a href="https://github.com/universdesdonnees/PredictCovid">
-        <img src="https://github.com/universdesdonnees/PredictCovid" style="width: 100%; float: left;" />
+        <img src="https://github.com/universdesdonnees/PredictCovid/blob/main/architecture.png" style="width: 100%; float: left;" />
       </td>
       <td>
         <a href="https://github.com/universdesdonnees/PredictAgriculture">
