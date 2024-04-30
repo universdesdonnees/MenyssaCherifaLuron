@@ -30,17 +30,12 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
     </tr>
   </thead>
   <tbody>
-  <tr width="600px">
+    <tr width="600px">
       <td>
-
-
-</td>
-<td>
-
-
-</td>
-</tr>
-
+      </td>
+      <td>
+      </td>
+      </tr>
   </tbody>
 </table>
 
