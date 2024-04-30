@@ -15,8 +15,8 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 <table>
   <thead>
     <tr>
-      <th width="500px"> Web app for covid-19 prediction</th>
-      <th width="500px"> Predictive Modeling for Agriculture</th>
+      <th width="500px"> Web app for covid-19 prediction (RShiny) </th>
+      <th width="500px"> Predictive Modeling for Agriculture (ML) </th>
     </tr>
   </thead>
   <tbody>
@@ -34,7 +34,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
   <thead>
     <tr>
       <th width="500px"> Python Tutor (GPT) </th>
-      <th width="500px"> Predictive Modeling for Agriculture</th>
+      <th width="500px"> StreamVoice (Text-To-Speech)</th>
     </tr>
   </thead>
   <tbody>
@@ -44,8 +44,8 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
         <img src ="https://www.fcga.fr/wp-content/uploads/2023/07/openAI_chat_gpt.jpg" style="width: 100%; float: left;" />
       </td>
       <td>
-        <a href="https://github.com/universdesdonnees/PredictAgriculture">
-        <img src="https://github.com/universdesdonnees/PredictAgriculture/blob/main/farmer_in_a_field.jpg" style="width: 100%; float: left;" />
+        <a href="https://github.com/Obstacleee/StreamVoice/blob/main/RSS-to-audio_MCL.ipynb">
+        <img src="https://github.com/Obstacleee/StreamVoice/blob/main/static/logo.png" style="width: 100%; float: left;" />
       </td>
       </tr>
   </tbody>
