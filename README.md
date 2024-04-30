@@ -11,7 +11,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Créatrice et autrice de la newsletter ['Smart'](https://www.linkedin.com/newsletters/7100158974640967680/), offrant des récits qui éclairent et inspirent.
   
 ## Projets 🏆
-- Multitask Learning for Hypotension Prediction
+- Multitask Learning for Hypotension Prediction :
 - RSS to audio :
 - Linkedin scraping bot :
 - Spotify EDA + LLM :
