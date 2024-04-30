@@ -52,7 +52,6 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 </table>
           
 - Multitask Learning for Hypotension Prediction :
-- RSS to audio :
 - Linkedin scraping bot :
 - Spotify EDA + LLM :
 - CrimeGPT :
