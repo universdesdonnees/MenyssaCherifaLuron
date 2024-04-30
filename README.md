@@ -51,8 +51,8 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
   </tbody>
   <thead>
     <tr>
-      <th width="500px"> Save the bees </th>
-      <th width="500px"> StreamVoice (Text-To-Speech)</th>
+      <th width="500px"> Save the bees (RShiny) </th>
+      <th width="500px"> Multitask Learning for Hypotension Prediction (ML) </th>
     </tr>
   </thead>
   <tbody>
@@ -69,12 +69,11 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
   </tbody>
 </table>
           
-- Multitask Learning for Hypotension Prediction :
+- :
 - Linkedin scraping bot :
 - Spotify EDA + LLM :
 - CrimeGPT :
 - Blog Scraping :
-- Save the bees :
 
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
