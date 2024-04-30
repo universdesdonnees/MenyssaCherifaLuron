@@ -62,14 +62,13 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
         <img src ="https://github.com/universdesdonnees/Save-the-bees/raw/main/image.png" style="width: 100%; float: left;" />
       </td>
       <td>
-        <a href="https://github.com/Obstacleee/StreamVoice/blob/main/RSS-to-audio_MCL.ipynb">
-        <img src="https://github.com/Obstacleee/StreamVoice/blob/main/static/logo.png" style="width: 100%; float: left;" />
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365721001111?via%3Dihub">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fehealth4everyone.com%2Fartificial-intelligence-in-medical-diagnosis%2F&psig=AOvVaw3E2H-2wHmRb6hTBI3F65L-&ust=1714559110284000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCA8snc6YUDFQAAAAAdAAAAABAJ" style="width: 100%; float: left;" />
       </td>
       </tr>
   </tbody>
 </table>
           
-- :
 - Linkedin scraping bot :
 - Spotify EDA + LLM :
 - CrimeGPT :
