@@ -23,16 +23,21 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Save the bees :
 - 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="flex: 50%;">
-    <!-- Première carte -->
+  <!-- Première carte dans un div séparé -->
+  <div style="flex: 1; margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%;" />
     </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-  </a>
+  </div>
+  <!-- Deuxième carte dans un autre div séparé -->
+  <div style="flex: 1; margin: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%;" />
+    </a>
+  </div>
 </div>
-</div>
+
+
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
 - **SQL en deux jours** : [GitHub](https://github.com/universdesdonnees/SQL-en-deux-jours) | [Livre](https://amzn.to/3T3pmPC)
