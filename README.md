@@ -23,18 +23,15 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Save the bees :
   
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <!-- Première carte -->
-  <div>
+  <div style="flex: 50%;">
+    <!-- Première carte -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%;" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
     </a>
-  </div>
-  <!-- Deuxième carte -->
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%;" />
-    </a>
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  </a>
+</div>
 </div>
 
 
