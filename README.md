@@ -21,62 +21,27 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - CrimeGPT :
 - Blog Scraping :
 - Save the bees :
-
+<!-- prettier-ignore -->
 <table>
-<tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
-</tr>
-<tr>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+  <thead>
+    <tr>
+      <th width="500px"> API</th>
+      <th width="500px">CLI</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+      <td>
+
+
 </td>
 <td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
+
+
 </td>
 </tr>
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-</tr>
+
+  </tbody>
 </table>
 
 
