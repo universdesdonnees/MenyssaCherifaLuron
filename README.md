@@ -7,7 +7,6 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - 8 ans d'XP (Start-up, ONG, Grand Groupe) en Stats/ML/DL 
 - Formatrice 5 🌟 à l'[IA School](https://www.intelligence-artificielle-school.com/?gad_source=1&gclid=CjwKCAiA_aGuBhACEiwAly57Mb4r76ce4ltU5l6_uI_juVjOtmW4LvzS2X8xjInfn5bxq5NJFDpH6BoC4MoQAvD_BwE) et à L'[Université Paris Cité](https://u-paris.fr/)
 - Autrice sur des sujets comme R, SQL, et Python ➡️ [Mes livres](https://www.amazon.fr/s?i=stripbooks&rh=p_27%3AMenyssa+Cherifa-Luron&s=relevancerank&text=Menyssa+Cherifa-Luron&linkCode=ll2&tag=mcherifa21-21&linkId=bd1b178e56ff3df3999515f7d7414119&language=fr_FR&ref_=as_li_ss_tl)
-- Plus de 8 ans d'expérience en machine learning et deep learning
 - Créatrice et autrice de la newsletter ['Smart'](https://www.linkedin.com/newsletters/7100158974640967680/), offrant des récits qui éclairent et inspirent.
   
 ## Projets 🏆
