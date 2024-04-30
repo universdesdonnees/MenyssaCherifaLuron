@@ -32,7 +32,6 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
   </a>
 </div>
-</div>
 
 
 ## Livres 📚
