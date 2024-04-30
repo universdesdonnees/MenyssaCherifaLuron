@@ -49,6 +49,24 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
       </td>
       </tr>
   </tbody>
+  <thead>
+    <tr>
+      <th width="500px"> Save the bees </th>
+      <th width="500px"> StreamVoice (Text-To-Speech)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr width="600px">
+      <td>
+        <a href="https://github.com/universdesdonnees/Save-the-bees">
+        <img src ="https://github.com/universdesdonnees/Save-the-bees/raw/main/image.png" style="width: 100%; float: left;" />
+      </td>
+      <td>
+        <a href="https://github.com/Obstacleee/StreamVoice/blob/main/RSS-to-audio_MCL.ipynb">
+        <img src="https://github.com/Obstacleee/StreamVoice/blob/main/static/logo.png" style="width: 100%; float: left;" />
+      </td>
+      </tr>
+  </tbody>
 </table>
           
 - Multitask Learning for Hypotension Prediction :
