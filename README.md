@@ -47,8 +47,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
   <tbody>
     <tr width="600px">
       <td>
-        <a href="https://chat.openai.com/g/g-fJSQx9XYA-python-tutor">
-        <img src="https://www.google.com/imgres?q=chatgpt%20image&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F04%2FChatGPT_logo.svg%2F1200px-ChatGPT_logo.svg.png&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FChatGPT&docid=ar9QF5PsfufWoM&tbnid=8ab6bBSYICg-eM&vet=12ahUKEwi4g56Q0-mFAxW2AvsDHSOoATsQM3oECBYQAA..i&w=1200&h=1200&hcb=2&itg=1&ved=2ahUKEwi4g56Q0-mFAxW2AvsDHSOoATsQM3oECBYQAA" style="width: 100%; float: left;" />
+        <a href="https://www.fcga.fr/wp-content/uploads/2023/07/openAI_chat_gpt.jpg" style="width: 100%; float: left;" />
       </td>
       <td>
         <a href="https://github.com/universdesdonnees/PredictAgriculture">
