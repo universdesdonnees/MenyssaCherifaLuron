@@ -21,16 +21,16 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - CrimeGPT :
 - Blog Scraping :
 - Save the bees :
-  
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
-  </div>
-</div>
+
+  ::: {.row}
+  ::: {.col-md-4}
+    table ...
+  :::
+  ::: {.col-md-8}
+    graph ...
+  :::
+:::
+
 
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
