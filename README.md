@@ -37,7 +37,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
       </td>
       <td>
         <a href="https://github.com/universdesdonnees/PredictAgriculture">
-        <img src="https://github.com/universdesdonnees/PredictAgriculture" style="width: 100%; float: left;" />
+        <img src="https://private-user-images.githubusercontent.com/97572668/280486508-a28a2615-1cec-4c5e-8934-3f6c2dbd40ec.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ0NzAxMzcsIm5iZiI6MTcxNDQ2OTgzNywicGF0aCI6Ii85NzU3MjY2OC8yODA0ODY1MDgtYTI4YTI2MTUtMWNlYy00YzVlLTg5MzQtM2Y2YzJkYmQ0MGVjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDMwVDA5MzcxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5ZWUxMmI1OWZhNWIxYzBhMjIwMzliZDI1Nzk1ZDJlNDAxY2UzMzFjOTI3YmY0ZWI4NmMzZDI2MDA5MjA1YTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sbuYlkMr5YIZwevNbBxI7Ntejc2n0GzQ6f0Btk3eJ_s)" style="width: 100%; float: left;" />
       </td>
       </tr>
   </tbody>
