@@ -39,6 +39,24 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
       </td>
       </tr>
   </tbody>
+  <thead>
+    <tr>
+      <th width="500px"> Web app for covid-19 prediction</th>
+      <th width="500px"> Predictive Modeling for Agriculture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr width="600px">
+      <td>
+        <a href="https://github.com/universdesdonnees/PredictCovid">
+        <img src="https://github.com/universdesdonnees/PredictCovid/blob/main/architecture.png" style="width: 100%; float: left;" />
+      </td>
+      <td>
+        <a href="https://github.com/universdesdonnees/PredictAgriculture">
+        <img src="https://github.com/universdesdonnees/PredictAgriculture/blob/main/farmer_in_a_field.jpg" style="width: 100%; float: left;" />
+      </td>
+      </tr>
+  </tbody>
 </table>
 
 
