@@ -24,7 +24,6 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- Première carte dans un div séparé -->
-  <div style="flex: 1; margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%;" />
     </a>
