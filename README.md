@@ -25,19 +25,19 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 <table>
   <thead>
     <tr>
-      <th width="500px"> API</th>
-      <th width="500px">CLI</th>
+      <th width="500px"> Web app for covid-19 prediction</th>
+      <th width="500px"> Predictive Modeling for Agriculture</th>
     </tr>
   </thead>
   <tbody>
     <tr width="600px">
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%; float: left;" />
+        <a href="https://github.com/universdesdonnees/PredictCovid">
+        <img src="https://github.com/universdesdonnees/PredictCovid" style="width: 100%; float: left;" />
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%; float: left;" />
+        <a href="https://github.com/universdesdonnees/PredictAgriculture">
+        <img src="https://github.com/universdesdonnees/PredictAgriculture" style="width: 100%; float: left;" />
       </td>
       </tr>
   </tbody>
