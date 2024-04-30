@@ -22,15 +22,15 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Blog Scraping :
 - Save the bees :
   
-::: flex justify-content: space-around; align-items: center;
-  ::: flex: 50%;
-    <!-- Première carte -->
-    [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-    :::
-  ::: flex: 50%;
-    [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  :::
-:::
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  </div>
+</div>
 
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
