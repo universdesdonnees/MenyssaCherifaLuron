@@ -23,20 +23,19 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Save the bees :
   
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="flex: 1;">
+  <!-- Première carte -->
+  <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%; float: left;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%;" />
     </a>
   </div>
-  <div style="flex: 1;">
+  <!-- Deuxième carte -->
+  <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%; float: left;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%;" />
     </a>
   </div>
-  <div style="clear: both;"></div>
 </div>
-
-
 
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
