@@ -22,9 +22,15 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Blog Scraping :
 - Save the bees :
   
-<div style="display: flex; justify-content: space-around; align-items: center;"> <div style="flex: 50%;"> <!-- Première carte --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /> </a> </div> <div style="clear: both;"></div> <div style="flex: 50%;"> <!-- Deuxième carte --> <a href="https://github.com/anuraghazra/convoychat"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /> </a> </div> <div style="clear: both;"></div> </div>
-
-
+::: flex justify-content: space-around; align-items: center;
+  ::: flex: 50%;
+    <!-- Première carte -->
+    [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+    :::
+  ::: flex: 50%;
+    [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  :::
+:::
 
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
