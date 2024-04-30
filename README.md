@@ -37,6 +37,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
   </div>
 </div>
 
+
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
 - **SQL en deux jours** : [GitHub](https://github.com/universdesdonnees/SQL-en-deux-jours) | [Livre](https://amzn.to/3T3pmPC)
