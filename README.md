@@ -21,7 +21,13 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - CrimeGPT :
 - Blog Scraping :
 - Save the bees :
-- 
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats)
+
+Use [show\_owner](#repo-card-exclusive-options) query option to include the repo's owner username
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats\&show_owner=true)
+
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
 - **SQL en deux jours** : [GitHub](https://github.com/universdesdonnees/SQL-en-deux-jours) | [Livre](https://amzn.to/3T3pmPC)
