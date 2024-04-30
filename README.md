@@ -21,12 +21,20 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - CrimeGPT :
 - Blog Scraping :
 - Save the bees :
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats)
-
-Use [show\_owner](#repo-card-exclusive-options) query option to include the repo's owner username
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats\&show_owner=true)
+- 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="flex: 50%;">
+    <!-- Première carte -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card">
+    </a>
+  </div>
+  <div style="flex: 50%;">
+    <!-- Deuxième carte (identique à la première dans cet exemple) -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card">
+    </a>
+  </div>
 
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
