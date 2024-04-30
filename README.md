@@ -47,7 +47,8 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
   <tbody>
     <tr width="600px">
       <td>
-        <a href="https://www.fcga.fr/wp-content/uploads/2023/07/openAI_chat_gpt.jpg" style="width: 100%; float: left;" />
+        <a href="https://chat.openai.com/g/g-fJSQx9XYA-python-tutor">
+        <img src ="https://www.fcga.fr/wp-content/uploads/2023/07/openAI_chat_gpt.jpg" style="width: 100%; float: left;" />
       </td>
       <td>
         <a href="https://github.com/universdesdonnees/PredictAgriculture">
