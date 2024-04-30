@@ -11,13 +11,6 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - Créatrice et autrice de la newsletter ['Smart'](https://www.linkedin.com/newsletters/7100158974640967680/), offrant des récits qui éclairent et inspirent.
   
 ## Projets 🏆
-- Multitask Learning for Hypotension Prediction :
-- RSS to audio :
-- Linkedin scraping bot :
-- Spotify EDA + LLM :
-- CrimeGPT :
-- Blog Scraping :
-- Save the bees :
 <!-- prettier-ignore -->
 <table>
   <thead>
@@ -57,8 +50,14 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
       </tr>
   </tbody>
 </table>
-
-
+          
+- Multitask Learning for Hypotension Prediction :
+- RSS to audio :
+- Linkedin scraping bot :
+- Spotify EDA + LLM :
+- CrimeGPT :
+- Blog Scraping :
+- Save the bees :
 
 ## Livres 📚
 - **Introduction accélérée à R pour la Data Science** : [GitHub](https://github.com/universdesdonnees/Introduction-acceleree-au-LANGAGE-R-pour-la-data-science) | [Livre](https://amzn.to/3SZNJhf)
