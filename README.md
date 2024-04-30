@@ -32,8 +32,12 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
   <tbody>
     <tr width="600px">
       <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%; float: left;" />
       </td>
       <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" style="width: 100%; float: left;" />
       </td>
       </tr>
   </tbody>
