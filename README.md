@@ -10,7 +10,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - LinkedIn `Top Data Science Voice`
 - Créatrice et autrice de la newsletter ['Smart'](https://www.linkedin.com/newsletters/7100158974640967680/), offrant des récits qui éclairent et inspirent.
   
-## Projets 🏆
+## Projets (Clique sur une des images)🏆
 <!-- prettier-ignore -->
 <table>
   <thead>
