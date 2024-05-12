@@ -83,7 +83,6 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - [R - Introduction](https://universdesdonnees.github.io/R-Introduction/cours/Cours.html)
 - [R - Shiny](https://universdesdonnees.github.io/R-Shiny/cours/cours.html)
 - [Python - Introduction](https://github.com/universdesdonnees/Python-Introduction)
-- [Git - Introduction](https://github.com/universdesdonnees/Git-Introduction)
 
 
 Je crois fermement que les données sont puissantes et que les histoires ont un impact. Ensemble, faisons bouger les lignes !
