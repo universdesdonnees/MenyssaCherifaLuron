@@ -67,6 +67,24 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
       </td>
       </tr>
   </tbody>
+  <thead>
+    <tr>
+      <th width="500px"> Poo en Python (Python, Quarto) </th>
+      <th width="500px"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr width="600px">
+      <td>
+        <a href="https://universdesdonnees.github.io/poo_en_python/">
+        <img src ="https://github.com/universdesdonnees/poo_en_python/blob/master/images/python%20logo.png" style="width: 100%; float: left;" />
+      </td>
+      <td>
+        <a href="">
+        <img src="" style="width: 100%; float: left;" />
+      </td>
+      </tr>
+  </tbody>
 </table>
           
 - Linkedin scraping bot :
