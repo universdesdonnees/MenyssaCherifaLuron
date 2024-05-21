@@ -97,12 +97,7 @@ Je suis passionnée par la transformation des données ennuyeuses en histoires c
 - **SQL en deux jours** : [GitHub](https://github.com/universdesdonnees/SQL-en-deux-jours) | [Livre](https://amzn.to/3T3pmPC)
 
 ## Cours 📋🆕⚒️
-À l'IA School, j'ai créé et enseigné les cours suivants:
-- [R - Introduction](https://universdesdonnees.github.io/R-Introduction/cours/Cours.html)
-- [R - Shiny](https://universdesdonnees.github.io/R-Shiny/cours/cours.html)
-- [Python - Introduction](https://github.com/universdesdonnees/Python-Introduction)
-
-
+Tous mes cours seront disponibles sur [DAMA](https://universdesdonnees.github.io/dama/)
 Je crois fermement que les données sont puissantes et que les histoires ont un impact. Ensemble, faisons bouger les lignes !
 
 Quand je ne suis pas plongée dans la data, je me perds dans un bon livre ou j'écoute un podcast passionnant. 
